@@ -1,5 +1,5 @@
 const sampleFunc = require("./sample");
 
 test('should first', () => {
-    expect(sampleFunc(1,2)).toBe(3)
+    expect(sampleFunc(1,2)).toBe(100)
 })
